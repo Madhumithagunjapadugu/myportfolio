@@ -1,0 +1,155 @@
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(227, 227, 239);
+    height:50px;
+    font-size:20px;
+    margin-bottom:0px;
+    border-bottom:2px solid rgb(141, 141, 146rg);
+    align-items:center;
+    margin-top:0%;
+}
+.first{
+    display:flex;
+    gap:70px;
+
+    
+}
+#name{
+    font-size: 25px;
+    text-align:center;
+    letter-spacing:2px;
+}
+i:active{
+    color:aqua;
+}
+a:active{
+    color:aqua;
+}
+#about{
+    text-align:center;
+    letter-spacing: 1px;
+    font-weight: 1000;
+}
+.frst img{
+    width:500px;
+    height:700px;
+}
+#desc{
+    text-align:center;
+    font-style:italic;
+    font-size:20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    display:flex;
+}
+.second{
+    margin-left:20px;
+}
+.sdesc{
+    font-style:italic;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    display:flex;
+    line-height: 50px;
+
+}
+.li::before{
+    content:' >';
+    color:brown;
+    
+}
+.part2{
+    text-align:center;
+}
+#skills{
+    margin-top: 0%;
+}
+#skillpart{
+    margin-bottom:0%;
+}
+form{
+    margin-left:200px;
+    width:600px;
+    display:flex;
+    gap:30px;
+    flex-wrap:wrap;
+}
+.second1{
+    text-align:center;
+    background-color:white;
+}
+.box{
+    display:flex;
+    margin-left:10px;
+}
+.box1{
+    width:600px;
+    line-height:20px;
+    margin-left:20px;
+    line-height:20px;
+}
+.Branch{
+    color:gray;
+    font-family:'Times New Roman', Times, serif;
+}
+footer{
+    text-align:center;
+    word-spacing: 2px;
+    line-height:20px;
+    background-color:rgb(227, 227, 239) ;
+}
+footer  p a{
+    color:aqua;
+}
+footer button{
+    border-radius:100%;
+}
+.box2{
+    margin-left:20px;
+}
+/* .whole{
+    background-color:rgb(229, 229, 244);
+} */
+
+.full{
+display:flex;
+}
+.full1{
+    width:600px;
+    line-height:20px;
+    margin-left:100px;
+}
+#contact{
+    margin-left:140px;
+} 
+.full1 i:hover{
+   color:aqua;
+}
+form label{
+     display:inline-block;
+     width:50px;
+}
+#save {
+    background-color:aqua;
+    color:white;
+    width:100px;
+    height:40px;
+    border-radius:50px;
+}
+input:required{
+    width:600px;
+}
+textarea{
+    width:400px;
+    height:200px;
+}
+.first a{
+    text-decoration:none;
+}
+
